@@ -112,4 +112,4 @@ while running:
     pygame.display.update()
 
 # pygame 종료
-pygame.quit()
+pygame.quit() 
